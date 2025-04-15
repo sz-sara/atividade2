@@ -1,0 +1,31 @@
+Sara Araújo Lustosa
+
+$ pwd
+
+$ cd curso-git-atvd2
+
+$ git clone https://gitlab.com/mizael.cortez/curso-branchs-ifrn-ead.git
+
+$ cd curso-branchs-ifrn-ead/
+
+$ git add texto.txt
+
+$ git commit -m 'texto'
+
+$ git checkout -b feature-1
+
+$ git commit -am "Alteração1"
+
+$ git switch main
+
+$ git commit -am "Alteração main"
+
+$ git merge feature-1
+
+$ git commit -am "Resolução do conflito"
+
+$ git checkout -b add-comandos
+
+$ git add comandos.txt
+
+$ git commit -m 'comandos'
