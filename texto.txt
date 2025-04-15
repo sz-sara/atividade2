@@ -1,0 +1,1 @@
+Uma ramificação (ou branch) representa uma linha de desenvolvimento isolada dentro do repositório.
